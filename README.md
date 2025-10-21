@@ -51,7 +51,7 @@ Demonstrar o domínio na criação e utilização de **funções (métodos)** em
 
 ## 💻 Requisitos Técnicos
 
-Seu código deve estar em um único arquivo `.java` (`MonitoramentoJumentos.java`) e precisa implementar **pelo menos 4 métodos estáticos** (funções) além do `main`, cada um com responsabilidades únicas, conforme detalhado abaixo:
+Seu código deve estar em um único arquivo `.java` (`Main.java`) e precisa implementar **pelo menos 4 métodos estáticos** (funções) além do `main`, cada um com responsabilidades únicas, conforme detalhado abaixo:
 
 ### Requisito 1: Cálculo e Gestão do Risco de Extinção (Função com Retorno)
 
@@ -135,10 +135,10 @@ Programa de Monitoramento Finalizado.
 
 1.  Crie um novo repositorio chamado: una-psc-prova-a1-matricula-impar-202502. (2 pts)
 2.  Adicione um arquivo .gitignore, um arquivo licença e suba este arquivo readme. (3 pts)
-3.  Crie um arquivo chamado `MonitoramentoJumentos.java`. (5 pts)
+3.  Crie um arquivo chamado `Main.java`. (5 pts)
 4.  Insira todo o seu código Java neste arquivo. (5 pts)
 5.  Inclua seu nome completo e número de matrícula como comentário no cabeçalho do arquivo. (1 pts)
-6.  Submeta o arquivo `MonitoramentoJumentos.java` no seu repositorio. (5 pts)
+6.  Submeta o arquivo `Main.java` no seu repositorio. (5 pts)
 7.  Teste seu algoritmo e envie uma imagem dele em funcionamento. (9 pts)
 
 Qualquer descumprimento de regras ou de alguma solicitacao da prova deve acarretar em perda total ou parcial dos pontos.
